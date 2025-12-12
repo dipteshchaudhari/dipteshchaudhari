@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## hey there 👋
-  -🔭 I’m currently working on my projects <br>- 🌱 I’m currently learning Ai and Data Science, with that Understanding DSA Concepts<br>- 👯 I’m looking to collaborate on any Real world Projects <br>- 💬 Ask me about my coding stuff<br>- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/dip-chaudhary-a8421a2b7/<br>- 😄 Pronouns: he/his<br>- ⚡ Fun fact : if i am not coding then i probably listening music
+  -🔭 I’m currently working on my projects  <br>- 🌱 I’m currently learning Ai and machine Learning, with that Understanding DSA Concepts<br>- 👯 I’m looking to collaborate on any Real world Projects <br>- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/dip-chaudhary-a8421a2b7/<br>- 😄 Pronouns: he/his<br>- ⚡ Fun fact : if i am not coding then i probably listening music
 
 
 # 💻 Tech Stack:
