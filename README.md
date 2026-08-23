@@ -114,26 +114,3 @@ A database-driven system designed to manage books, users, borrowing records, and
 An analytics-focused project combining **customer behavior analysis, predictive modeling, database management, and visualization**.
 
 ---
-
-# 🎯 2026–2028 Goal
-
-> **Become a placement-ready Software Engineer with strong DSA, AI/ML, and Data Analytics skills.**
-
-```text
-Java & DSA
-     ↓
-Problem Solving
-     ↓
-Backend Development
-     ↓
-SQL & Database Systems
-     ↓
-Data Analytics
-     ↓
-Machine Learning
-     ↓
-AI / NLP
-     ↓
-Real-World Projects
-     ↓
-Placement Ready 🚀
