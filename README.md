@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diptesh Chaudhari
 
-### 💻 MSc IT Student • Aspiring Software Engineer • AI/ML & Data Enthusiast
+### 💻 MSc IT Student • AI/ML & Data Enthusiast
 
 I’m an **MSc IT student** focused on building practical software, strengthening **Data Structures & Algorithms**, and exploring **AI/ML, Data Analytics, and Backend Development**.
 
